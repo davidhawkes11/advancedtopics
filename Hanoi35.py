@@ -17,3 +17,7 @@ helper = ([], "helper")
 hanoi(len(source[0]),source,helper,target)
 
 print (source, helper, target)
+"""
+Reference:
+http://www.python-course.eu/towers_of_hanoi.php
+"""
